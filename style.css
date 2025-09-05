@@ -1,0 +1,12 @@
+h1 {
+    text-decoration: 2px wavy underline orange;
+}
+p {
+    background-color: beige;
+}
+button {
+    background-color: cyan;
+    color: black;
+    border: 2px solid;
+    border-radius: 5px;
+}
